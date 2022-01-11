@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Ashwin Sankar"
   avatar : "/assets/images/Ashwin.jpg"
-  bio    : "A python developer intrigued by even the smallest things."
+  bio    : "A python developer and a machine intelligence enthusiast."
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
