@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:galaxy-brain-think: Joined TTSTeam @ AI4Bharat as AI Resident.
+:books: Joined TTSTeam @ AI4Bharat as AI Resident.
