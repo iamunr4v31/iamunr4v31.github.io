@@ -6,7 +6,7 @@ subtitle: AI Resident @ <a href='https://ai4bharat.iitm.ac.in/'>AI4Bharat, IIT M
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_bw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>434, SSB</p>
@@ -27,5 +27,5 @@ Currently, I'm working to tackle problems in long-form speech synthesis where, f
 
 <hr>
 
-Research Collaborators: [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), IIT Madras; [Suvrat Bhooshan](https://scholar.google.com/citations?user=9zUHCNoAAAAJ), [Gan.ai](https://www.gan.ai)
+Research Collaborators: [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), IIT Madras; [Suvrat Bhooshan](https://scholar.google.com/citations?user=9zUHCNoAAAAJ), Gan.ai
 
