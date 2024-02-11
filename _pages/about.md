@@ -23,7 +23,7 @@ I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. Currentl
 
 Prior to this, I worked as an intern at Saama Technologies Pvt Ltd where I dabbled in multiple roles like backend developer, data engineer, etc. occasionaly tweaking front-end logic too. My experience encompasses backend API development, utilizing Transformer encoder models for question answering, database management, data engineering.
 
-Currently, I'm working to tackle problems in long-form speech synthesis where, for particularly long sentences like paragraphs, inconsistencies with pitch are common. I'm also developing a speech processing toolkit particularly focussed on the Indic languages. My previous research experience lies in developing TTS systems in extremely resource constrained scenarios.
+Currently, I'm working to tackle problems in long-form speech synthesis where, for particularly long sentences like paragraphs, inconsistencies with pitch are common. I'm also developing a speech processing toolkit particularly focussed on the Indic languages. My previous research experience lies in developing TTS systems in extremely resource constrained scenarios and expressive speech synthesis.
 
 <hr>
 
