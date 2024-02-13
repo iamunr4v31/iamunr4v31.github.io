@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. Currently I work with Prof.the Speech Synthesis team for developing natural, human-level speech synthesis systems for the Indian subcontinent. My interests broady lie in speech synthesis, multi-modal models and their evaluation.
+I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. Currently I work with Prof. Mitesh Khapra and the Speech Synthesis team for developing natural, human-level speech synthesis systems for the Indian subcontinent. My interests broady lie in speech synthesis, multi-modal models and their evaluation.
 
 Prior to this, I worked as an intern at Saama Technologies Pvt Ltd where I dabbled in multiple roles like backend developer, data engineer, etc. occasionaly tweaking front-end logic too. My experience encompasses backend API development, utilizing Transformer encoder models for question answering, database management, data engineering.
 
