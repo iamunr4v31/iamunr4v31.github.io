@@ -6,7 +6,7 @@ subtitle: AI Resident @ <a href='https://ai4bharat.iitm.ac.in/'>AI4Bharat, IIT M
 
 profile:
   align: right
-  image: profile_pic_bw.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>434, SSB</p>
