@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. I work with Prof. Mitesh Khapra on developing natural and expressive TTS systems, indistinguishable from human speech, for the Indian languages.
 
-My research interests broady cover TTS and Speech/Audio X Multimodal models. One of my primary goals is to develop high-quality, multilingual, and multispeaker TTS systems that can be deployed in real-world applications. Released [Rasa*](https://ai4bharat.iitm.ac.in/rasa/v1/), [IndicOOV](https://ai4bharat.iitm.ac.in/indicoov/), and [IndicVoices-R*](ai4bharat.iitm.ac.in/indicvoices_r) as a step towards this goal.
+My research interests broady cover TTS and Speech/Audio X Multimodal models. One of my primary goals is to develop high-quality, multilingual, and multispeaker TTS systems that can be deployed in real-world applications. Released [Rasa](https://ai4bharat.iitm.ac.in/rasa/v1/)*, [IndicOOV](https://ai4bharat.iitm.ac.in/indicoov/), and [IndicVoices-R](ai4bharat.iitm.ac.in/indicvoices_r)* as a step towards this goal.
 
 Currently, I'm working on robust and large-scale evaluation of speech data and TTS systems. I welcome ideas and collaborations on this front.
 
