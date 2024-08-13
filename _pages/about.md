@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. Currently I work with Prof. Mitesh Khapra and the Speech Synthesis team for developing natural, human-level speech synthesis systems for the Indian subcontinent. My interests broady lie in speech synthesis, multi-modal models and their evaluation.
+I'm an AI Resident at AI4Bharat, Indian Institute of Technology Madras. I work with Prof. Mitesh Khapra on developing natural and expressive TTS systems, indistinguishable from human speech, for the Indian languages.
 
-Prior to this, I worked as an intern at Saama Technologies Pvt Ltd where I dabbled in multiple roles like backend developer, data engineer, etc. occasionaly tweaking front-end logic too. My experience encompasses backend API development, utilizing Transformer encoder models for question answering, database management, data engineering.
+My research interests broady cover TTS and Speech/Audio X Multimodal models. One of my primary goals is to develop high-quality, multilingual, and multispeaker TTS systems that can be deployed in real-world applications. Released Rasa, IndicOOV, and IndicVoices-R as a step towards this goal.
 
-Currently, I'm working to tackle problems in long-form speech synthesis where, for particularly long sentences like paragraphs, inconsistencies with pitch are common. I'm also developing a speech processing toolkit particularly focussed on the Indic languages. My previous research experience lies in developing TTS systems in extremely resource constrained scenarios and expressive speech synthesis.
+I'm interested in fluent, multilingual and interruptible conversational systems. Feel free to check out my [resume](https://ashwinsankar17.github.io/assets/pdf/Ashwin_CV.pdf) or drop me an [email](mailto:ashwins1211@gmail.com) to chat with me.
 
 <hr>
 
